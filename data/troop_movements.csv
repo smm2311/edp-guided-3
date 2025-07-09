@@ -1,0 +1,1001 @@
+timestamp,unit_id,unit_type,empire_or_resistance,location_x,location_y,destination_x,destination_y,homeworld
+2025-07-09 08:37:43,1,resistance_soldier,resistance,9,4,1,4,Dathomir
+2025-07-09 08:37:42,2,x-wing,empire,4,2,2,8,Glee Anselm
+2025-07-09 08:37:41,3,at-st,resistance,6,6,2,10,Umbara
+2025-07-09 08:37:40,4,unknown,empire,1,6,10,6,Tund
+2025-07-09 08:37:39,5,at-st,empire,5,4,2,2,Malastare
+2025-07-09 08:37:38,6,at-st,empire,1,4,1,9,Dorin
+2025-07-09 08:37:37,7,x-wing,resistance,3,9,2,7,Ryloth
+2025-07-09 08:37:36,8,tie_fighter,empire,2,2,5,9,Umbara
+2025-07-09 08:37:35,9,tie_silencer,resistance,8,9,2,2,Mon Cala
+2025-07-09 08:37:34,10,x-wing,resistance,7,8,9,9,Quermia
+2025-07-09 08:37:33,11,tie_silencer,empire,1,4,2,2,Aleen Minor
+2025-07-09 08:37:32,12,tie_silencer,empire,7,10,7,2,Champala
+2025-07-09 08:37:31,13,stormtrooper,resistance,4,9,3,6,Iridonia
+2025-07-09 08:37:30,14,stormtrooper,empire,5,3,9,2,Kalee
+2025-07-09 08:37:29,15,tie_fighter,resistance,7,7,1,3,Stewjon
+2025-07-09 08:37:28,16,at-st,empire,7,6,7,6,Muunilinst
+2025-07-09 08:37:27,17,tie_silencer,empire,6,10,10,3,Serenno
+2025-07-09 08:37:26,18,at-at,resistance,9,7,9,1,Naboo
+2025-07-09 08:37:25,19,tie_silencer,resistance,8,2,1,10,Kashyyyk
+2025-07-09 08:37:24,20,tie_silencer,resistance,10,6,10,5,Shili
+2025-07-09 08:37:23,21,unknown,resistance,10,9,4,10,Quermia
+2025-07-09 08:37:22,22,resistance_soldier,empire,4,8,4,8,Champala
+2025-07-09 08:37:21,23,x-wing,empire,10,6,4,7,Socorro
+2025-07-09 08:37:20,24,resistance_soldier,empire,4,9,6,8,Serenno
+2025-07-09 08:37:19,25,stormtrooper,resistance,10,7,1,10,Iridonia
+2025-07-09 08:37:18,26,at-st,resistance,6,7,8,2,Naboo
+2025-07-09 08:37:17,27,stormtrooper,empire,4,5,8,9,Tholoth
+2025-07-09 08:37:16,28,tie_silencer,empire,7,4,8,3,Malastare
+2025-07-09 08:37:15,29,unknown,empire,7,7,4,10,Corellia
+2025-07-09 08:37:14,30,unknown,empire,7,5,10,8,Champala
+2025-07-09 08:37:13,31,resistance_soldier,resistance,7,4,5,5,Skako
+2025-07-09 08:37:12,32,x-wing,resistance,2,7,1,7,Alderaan
+2025-07-09 08:37:11,33,tie_fighter,resistance,2,5,4,5,Skako
+2025-07-09 08:37:10,34,resistance_soldier,empire,3,4,9,10,Toydaria
+2025-07-09 08:37:09,35,tie_silencer,resistance,9,9,6,10,Mon Cala
+2025-07-09 08:37:08,36,tie_fighter,empire,10,1,8,7,Toydaria
+2025-07-09 08:37:07,37,unknown,resistance,4,1,2,2,Iktotch
+2025-07-09 08:37:06,38,resistance_soldier,resistance,5,8,9,5,Dathomir
+2025-07-09 08:37:05,39,resistance_soldier,resistance,8,5,3,3,Chandrila
+2025-07-09 08:37:04,40,resistance_soldier,resistance,9,3,9,10,Shili
+2025-07-09 08:37:03,41,tie_silencer,empire,7,8,8,10,Naboo
+2025-07-09 08:37:02,42,stormtrooper,empire,3,7,3,2,Vulpter
+2025-07-09 08:37:01,43,unknown,empire,3,1,1,3,Ryloth
+2025-07-09 08:37:00,44,at-st,empire,8,7,6,9,Ryloth
+2025-07-09 08:36:59,45,at-at,resistance,9,4,5,7,Shili
+2025-07-09 08:36:58,46,stormtrooper,empire,1,10,5,2,Concord Dawn
+2025-07-09 08:36:57,47,stormtrooper,resistance,3,1,7,1,Champala
+2025-07-09 08:36:56,48,tie_silencer,resistance,10,7,7,4,Malastare
+2025-07-09 08:36:55,49,at-at,empire,5,1,7,5,Quermia
+2025-07-09 08:36:54,50,at-at,resistance,10,7,2,2,Champala
+2025-07-09 08:36:53,51,tie_fighter,resistance,8,4,1,6,Mon Cala
+2025-07-09 08:36:52,52,tie_fighter,resistance,7,5,6,10,Aleen Minor
+2025-07-09 08:36:51,53,unknown,resistance,9,9,10,9,Stewjon
+2025-07-09 08:36:50,54,resistance_soldier,empire,1,5,4,10,Tatooine
+2025-07-09 08:36:49,55,unknown,resistance,1,4,5,2,Skako
+2025-07-09 08:36:48,56,stormtrooper,resistance,1,3,7,3,Iktotch
+2025-07-09 08:36:47,57,x-wing,empire,5,3,4,6,Toydaria
+2025-07-09 08:36:46,58,resistance_soldier,empire,10,3,4,8,Stewjon
+2025-07-09 08:36:45,59,unknown,empire,3,4,10,4,Tatooine
+2025-07-09 08:36:44,60,tie_silencer,empire,3,6,2,1,Ojom
+2025-07-09 08:36:43,61,tie_silencer,empire,6,8,3,10,Glee Anselm
+2025-07-09 08:36:42,62,resistance_soldier,resistance,5,5,8,7,Mon Cala
+2025-07-09 08:36:41,63,at-at,resistance,10,3,9,9,Mon Cala
+2025-07-09 08:36:40,64,at-at,resistance,3,1,2,8,Vulpter
+2025-07-09 08:36:39,65,x-wing,resistance,3,6,6,1,Tholoth
+2025-07-09 08:36:38,66,resistance_soldier,empire,10,2,1,5,Tholoth
+2025-07-09 08:36:37,67,tie_silencer,empire,3,2,8,3,Toydaria
+2025-07-09 08:36:36,68,at-st,empire,8,4,10,5,Socorro
+2025-07-09 08:36:35,69,at-at,empire,9,2,8,4,Zolan
+2025-07-09 08:36:34,70,unknown,resistance,10,5,1,4,Champala
+2025-07-09 08:36:33,71,tie_silencer,empire,9,7,6,8,Glee Anselm
+2025-07-09 08:36:32,72,x-wing,resistance,5,1,5,5,Tatooine
+2025-07-09 08:36:31,73,stormtrooper,resistance,10,5,2,2,Quermia
+2025-07-09 08:36:30,74,at-st,empire,9,2,8,4,Trandosha
+2025-07-09 08:36:29,75,stormtrooper,empire,3,7,5,1,Tund
+2025-07-09 08:36:28,76,at-st,resistance,10,9,1,5,Dathomir
+2025-07-09 08:36:27,77,at-at,resistance,5,9,7,2,Ojom
+2025-07-09 08:36:26,78,stormtrooper,resistance,9,5,10,4,Glee Anselm
+2025-07-09 08:36:25,79,at-st,resistance,7,3,10,6,Iridonia
+2025-07-09 08:36:24,80,tie_fighter,resistance,3,5,3,10,Rodia
+2025-07-09 08:36:23,81,x-wing,empire,10,8,3,10,Ryloth
+2025-07-09 08:36:22,82,at-st,empire,8,2,7,6,Shili
+2025-07-09 08:36:21,83,at-st,empire,2,7,9,1,Tund
+2025-07-09 08:36:20,84,tie_fighter,empire,7,2,2,3,Vulpter
+2025-07-09 08:36:19,85,at-at,empire,2,8,1,3,Trandosha
+2025-07-09 08:36:18,86,at-at,empire,8,6,1,5,Dorin
+2025-07-09 08:36:17,87,tie_silencer,resistance,4,7,1,1,Glee Anselm
+2025-07-09 08:36:16,88,x-wing,resistance,2,8,10,8,Iktotch
+2025-07-09 08:36:15,89,unknown,empire,3,6,8,4,Cerea
+2025-07-09 08:36:14,90,unknown,empire,10,5,8,1,Aleen Minor
+2025-07-09 08:36:13,91,stormtrooper,empire,8,6,1,3,Tund
+2025-07-09 08:36:12,92,resistance_soldier,resistance,10,6,7,2,Sullust
+2025-07-09 08:36:11,93,x-wing,empire,4,3,5,6,Trandosha
+2025-07-09 08:36:10,94,tie_silencer,resistance,1,2,5,4,Naboo
+2025-07-09 08:36:09,95,stormtrooper,empire,6,3,2,7,Quermia
+2025-07-09 08:36:08,96,tie_silencer,resistance,10,9,2,2,Mon Cala
+2025-07-09 08:36:07,97,unknown,resistance,4,10,3,2,Umbara
+2025-07-09 08:36:06,98,stormtrooper,resistance,1,9,2,7,Naboo
+2025-07-09 08:36:05,99,stormtrooper,resistance,4,5,6,9,Serenno
+2025-07-09 08:36:04,100,unknown,resistance,8,7,6,1,Naboo
+2025-07-09 08:36:03,101,at-at,empire,3,1,3,7,Stewjon
+2025-07-09 08:36:02,102,tie_fighter,empire,5,7,2,8,Trandosha
+2025-07-09 08:36:01,103,stormtrooper,empire,6,3,4,1,Concord Dawn
+2025-07-09 08:36:00,104,tie_silencer,empire,8,8,10,7,Tholoth
+2025-07-09 08:35:59,105,resistance_soldier,resistance,1,7,6,6,Naboo
+2025-07-09 08:35:58,106,at-at,empire,2,1,2,2,Iktotch
+2025-07-09 08:35:57,107,tie_silencer,empire,1,8,5,8,Serenno
+2025-07-09 08:35:56,108,at-at,empire,4,3,7,7,Umbara
+2025-07-09 08:35:55,109,at-at,resistance,3,6,6,6,Socorro
+2025-07-09 08:35:54,110,at-st,resistance,10,5,6,6,Alderaan
+2025-07-09 08:35:53,111,x-wing,empire,8,5,4,7,Glee Anselm
+2025-07-09 08:35:52,112,at-st,empire,5,3,3,1,Tholoth
+2025-07-09 08:35:51,113,at-at,empire,3,3,5,5,Dagobah
+2025-07-09 08:35:50,114,at-at,empire,8,2,3,7,Eriadu
+2025-07-09 08:35:49,115,unknown,resistance,6,7,10,10,Troiken
+2025-07-09 08:35:48,116,resistance_soldier,resistance,3,1,4,4,Sullust
+2025-07-09 08:35:47,117,x-wing,empire,1,9,8,9,Muunilinst
+2025-07-09 08:35:46,118,at-at,empire,10,5,3,10,Quermia
+2025-07-09 08:35:45,119,stormtrooper,resistance,8,1,5,3,Rodia
+2025-07-09 08:35:44,120,resistance_soldier,empire,7,5,6,7,Rodia
+2025-07-09 08:35:43,121,resistance_soldier,resistance,7,10,10,6,Glee Anselm
+2025-07-09 08:35:42,122,tie_fighter,resistance,8,1,3,6,Zolan
+2025-07-09 08:35:41,123,unknown,resistance,3,1,7,7,Tatooine
+2025-07-09 08:35:40,124,at-st,resistance,3,7,8,1,Eriadu
+2025-07-09 08:35:39,125,x-wing,empire,2,6,1,6,Stewjon
+2025-07-09 08:35:38,126,tie_silencer,empire,3,10,6,5,Ojom
+2025-07-09 08:35:37,127,resistance_soldier,resistance,7,8,1,6,Sullust
+2025-07-09 08:35:36,128,stormtrooper,resistance,6,9,1,8,Chandrila
+2025-07-09 08:35:35,129,resistance_soldier,resistance,4,1,2,1,Socorro
+2025-07-09 08:35:34,130,tie_silencer,resistance,5,9,2,4,Champala
+2025-07-09 08:35:33,131,at-st,empire,6,1,5,10,Muunilinst
+2025-07-09 08:35:32,132,unknown,empire,9,7,4,2,Corellia
+2025-07-09 08:35:31,133,tie_silencer,empire,9,8,9,5,Troiken
+2025-07-09 08:35:30,134,resistance_soldier,empire,6,1,6,3,Eriadu
+2025-07-09 08:35:29,135,stormtrooper,empire,3,9,7,3,Vulpter
+2025-07-09 08:35:28,136,x-wing,resistance,8,8,6,1,Chandrila
+2025-07-09 08:35:27,137,tie_fighter,resistance,5,8,9,1,Bestine IV
+2025-07-09 08:35:26,138,stormtrooper,resistance,1,5,5,10,Rodia
+2025-07-09 08:35:25,139,x-wing,resistance,10,7,4,7,Troiken
+2025-07-09 08:35:24,140,stormtrooper,resistance,2,4,6,6,Concord Dawn
+2025-07-09 08:35:23,141,tie_silencer,resistance,9,8,4,9,Sullust
+2025-07-09 08:35:22,142,unknown,resistance,8,1,6,6,Dathomir
+2025-07-09 08:35:21,143,unknown,resistance,4,6,2,1,Iktotch
+2025-07-09 08:35:20,144,unknown,empire,3,1,9,5,Dathomir
+2025-07-09 08:35:19,145,unknown,empire,8,2,4,1,Aleen Minor
+2025-07-09 08:35:18,146,at-st,empire,8,3,4,4,Corellia
+2025-07-09 08:35:17,147,resistance_soldier,resistance,9,3,5,10,Ryloth
+2025-07-09 08:35:16,148,tie_silencer,empire,4,6,6,8,Malastare
+2025-07-09 08:35:15,149,at-at,empire,3,9,2,1,Muunilinst
+2025-07-09 08:35:14,150,at-st,empire,2,7,3,5,Eriadu
+2025-07-09 08:35:13,151,at-at,resistance,3,1,10,5,Vulpter
+2025-07-09 08:35:12,152,stormtrooper,resistance,1,1,4,7,Tatooine
+2025-07-09 08:35:11,153,tie_silencer,resistance,10,5,4,4,Umbara
+2025-07-09 08:35:10,154,x-wing,empire,3,1,2,2,Vulpter
+2025-07-09 08:35:09,155,resistance_soldier,empire,2,7,8,10,Stewjon
+2025-07-09 08:35:08,156,tie_silencer,empire,1,7,1,4,Corellia
+2025-07-09 08:35:07,157,x-wing,resistance,3,10,7,4,Tund
+2025-07-09 08:35:06,158,x-wing,empire,4,3,1,9,Tatooine
+2025-07-09 08:35:05,159,unknown,empire,2,10,10,5,Toydaria
+2025-07-09 08:35:04,160,at-at,resistance,4,10,9,7,Aleen Minor
+2025-07-09 08:35:03,161,x-wing,empire,10,10,1,8,Bestine IV
+2025-07-09 08:35:02,162,x-wing,resistance,8,8,8,10,Alderaan
+2025-07-09 08:35:01,163,resistance_soldier,resistance,1,3,10,10,Dathomir
+2025-07-09 08:35:00,164,resistance_soldier,empire,9,6,4,1,Malastare
+2025-07-09 08:34:59,165,unknown,resistance,10,4,7,4,Iktotch
+2025-07-09 08:34:58,166,tie_fighter,empire,7,9,1,8,Skako
+2025-07-09 08:34:57,167,x-wing,empire,3,4,7,10,Quermia
+2025-07-09 08:34:56,168,at-st,resistance,8,9,2,6,Corellia
+2025-07-09 08:34:55,169,resistance_soldier,resistance,3,1,5,8,Iridonia
+2025-07-09 08:34:54,170,tie_silencer,empire,9,3,2,5,Aleen Minor
+2025-07-09 08:34:53,171,at-at,empire,1,1,3,5,Naboo
+2025-07-09 08:34:52,172,tie_silencer,empire,8,5,1,4,Mon Cala
+2025-07-09 08:34:51,173,unknown,empire,7,4,6,7,Vulpter
+2025-07-09 08:34:50,174,x-wing,empire,3,8,8,1,Tund
+2025-07-09 08:34:49,175,resistance_soldier,empire,5,6,9,3,Tund
+2025-07-09 08:34:48,176,x-wing,empire,3,2,4,1,Tholoth
+2025-07-09 08:34:47,177,unknown,resistance,9,8,4,7,Tatooine
+2025-07-09 08:34:46,178,at-st,resistance,9,5,4,2,Zolan
+2025-07-09 08:34:45,179,unknown,resistance,10,8,10,10,Haruun Kal
+2025-07-09 08:34:44,180,resistance_soldier,resistance,8,6,6,9,Alderaan
+2025-07-09 08:34:43,181,x-wing,resistance,8,5,7,3,Bestine IV
+2025-07-09 08:34:42,182,unknown,resistance,6,8,1,2,Mon Cala
+2025-07-09 08:34:41,183,tie_fighter,empire,10,8,8,9,Dorin
+2025-07-09 08:34:40,184,unknown,resistance,6,1,1,7,Alderaan
+2025-07-09 08:34:39,185,at-at,empire,7,9,9,10,Dorin
+2025-07-09 08:34:38,186,resistance_soldier,resistance,4,1,4,3,Shili
+2025-07-09 08:34:37,187,tie_silencer,resistance,4,7,5,4,Iridonia
+2025-07-09 08:34:36,188,unknown,resistance,3,9,8,10,Quermia
+2025-07-09 08:34:35,189,x-wing,empire,1,7,8,3,Tatooine
+2025-07-09 08:34:34,190,resistance_soldier,resistance,1,5,7,10,Concord Dawn
+2025-07-09 08:34:33,191,resistance_soldier,resistance,3,4,9,3,Dathomir
+2025-07-09 08:34:32,192,tie_silencer,empire,9,10,6,8,Serenno
+2025-07-09 08:34:31,193,x-wing,empire,8,4,2,2,Skako
+2025-07-09 08:34:30,194,at-at,resistance,8,6,9,10,Iridonia
+2025-07-09 08:34:29,195,stormtrooper,empire,1,9,9,10,Corellia
+2025-07-09 08:34:28,196,tie_silencer,empire,4,2,1,7,Serenno
+2025-07-09 08:34:27,197,tie_silencer,resistance,4,3,6,2,Ryloth
+2025-07-09 08:34:26,198,resistance_soldier,empire,5,9,5,10,Toydaria
+2025-07-09 08:34:25,199,tie_fighter,resistance,9,6,7,7,Chandrila
+2025-07-09 08:34:24,200,at-at,empire,8,5,6,7,Trandosha
+2025-07-09 08:34:23,201,at-at,resistance,2,4,5,9,Sullust
+2025-07-09 08:34:22,202,at-at,empire,9,9,1,1,Iktotch
+2025-07-09 08:34:21,203,tie_silencer,resistance,8,8,9,6,Quermia
+2025-07-09 08:34:20,204,unknown,empire,2,3,3,5,Trandosha
+2025-07-09 08:34:19,205,tie_silencer,empire,3,2,3,7,Tatooine
+2025-07-09 08:34:18,206,tie_fighter,empire,7,10,2,7,Tund
+2025-07-09 08:34:17,207,x-wing,resistance,6,5,6,2,Mirial
+2025-07-09 08:34:16,208,stormtrooper,resistance,1,8,5,3,Socorro
+2025-07-09 08:34:15,209,x-wing,empire,1,4,9,3,Muunilinst
+2025-07-09 08:34:14,210,tie_fighter,empire,9,3,9,10,Tholoth
+2025-07-09 08:34:13,211,unknown,resistance,6,2,8,1,Chandrila
+2025-07-09 08:34:12,212,tie_fighter,resistance,4,9,8,7,Ryloth
+2025-07-09 08:34:11,213,at-at,empire,2,8,5,10,Ojom
+2025-07-09 08:34:10,214,at-st,resistance,2,7,5,7,Trandosha
+2025-07-09 08:34:09,215,stormtrooper,resistance,10,1,10,8,Sullust
+2025-07-09 08:34:08,216,stormtrooper,resistance,3,7,8,2,Iridonia
+2025-07-09 08:34:07,217,tie_silencer,empire,1,4,1,4,Ojom
+2025-07-09 08:34:06,218,resistance_soldier,resistance,4,7,2,8,Shili
+2025-07-09 08:34:05,219,at-st,resistance,1,8,5,1,Sullust
+2025-07-09 08:34:04,220,stormtrooper,resistance,7,7,8,3,Skako
+2025-07-09 08:34:03,221,at-at,resistance,2,7,7,1,Troiken
+2025-07-09 08:34:02,222,tie_silencer,resistance,2,10,4,5,Socorro
+2025-07-09 08:34:01,223,stormtrooper,resistance,10,10,4,6,Chandrila
+2025-07-09 08:34:00,224,tie_fighter,resistance,10,4,8,5,Umbara
+2025-07-09 08:33:59,225,at-st,empire,6,10,10,8,Mirial
+2025-07-09 08:33:58,226,at-st,empire,5,9,2,6,Malastare
+2025-07-09 08:33:57,227,at-at,empire,3,3,7,4,Skako
+2025-07-09 08:33:56,228,tie_fighter,resistance,7,9,4,2,Malastare
+2025-07-09 08:33:55,229,tie_fighter,resistance,4,5,5,4,Alderaan
+2025-07-09 08:33:54,230,tie_fighter,resistance,6,8,7,10,Mon Cala
+2025-07-09 08:33:53,231,x-wing,resistance,4,9,5,6,Tatooine
+2025-07-09 08:33:52,232,at-at,resistance,1,9,7,5,Troiken
+2025-07-09 08:33:51,233,tie_silencer,empire,5,7,7,1,Glee Anselm
+2025-07-09 08:33:50,234,resistance_soldier,empire,9,8,9,1,Tatooine
+2025-07-09 08:33:49,235,tie_silencer,resistance,2,7,10,2,Mon Cala
+2025-07-09 08:33:48,236,tie_silencer,empire,5,9,10,10,Iktotch
+2025-07-09 08:33:47,237,tie_silencer,resistance,4,4,10,2,Troiken
+2025-07-09 08:33:46,238,at-st,empire,6,1,5,6,Dorin
+2025-07-09 08:33:45,239,x-wing,empire,10,1,1,3,Serenno
+2025-07-09 08:33:44,240,at-st,empire,6,8,3,6,Kalee
+2025-07-09 08:33:43,241,stormtrooper,empire,6,4,4,6,Aleen Minor
+2025-07-09 08:33:42,242,tie_silencer,empire,2,7,8,2,Haruun Kal
+2025-07-09 08:33:41,243,unknown,resistance,8,1,5,1,Quermia
+2025-07-09 08:33:40,244,tie_fighter,empire,3,10,3,2,Vulpter
+2025-07-09 08:33:39,245,at-st,resistance,2,4,7,1,Mon Cala
+2025-07-09 08:33:38,246,stormtrooper,resistance,1,9,5,6,Umbara
+2025-07-09 08:33:37,247,stormtrooper,empire,10,8,9,5,Cerea
+2025-07-09 08:33:36,248,x-wing,resistance,3,4,2,1,Quermia
+2025-07-09 08:33:35,249,stormtrooper,empire,9,2,4,2,Corellia
+2025-07-09 08:33:34,250,stormtrooper,empire,7,5,8,5,Ojom
+2025-07-09 08:33:33,251,tie_fighter,empire,7,4,7,2,Sullust
+2025-07-09 08:33:32,252,at-st,resistance,7,4,8,9,Skako
+2025-07-09 08:33:31,253,stormtrooper,resistance,1,1,3,6,Sullust
+2025-07-09 08:33:30,254,stormtrooper,resistance,2,4,1,4,Kashyyyk
+2025-07-09 08:33:29,255,tie_fighter,empire,9,3,3,8,Dorin
+2025-07-09 08:33:28,256,unknown,resistance,10,6,5,1,Shili
+2025-07-09 08:33:27,257,at-at,empire,5,10,2,6,Shili
+2025-07-09 08:33:26,258,stormtrooper,empire,5,9,10,3,Iridonia
+2025-07-09 08:33:25,259,x-wing,resistance,1,2,1,9,Shili
+2025-07-09 08:33:24,260,stormtrooper,empire,8,6,2,4,Trandosha
+2025-07-09 08:33:23,261,stormtrooper,empire,9,7,1,8,Corellia
+2025-07-09 08:33:22,262,x-wing,empire,10,9,2,8,Toydaria
+2025-07-09 08:33:21,263,stormtrooper,empire,6,9,4,1,Tholoth
+2025-07-09 08:33:20,264,at-at,resistance,10,10,7,5,Glee Anselm
+2025-07-09 08:33:19,265,at-at,resistance,4,4,3,6,Kashyyyk
+2025-07-09 08:33:18,266,at-at,empire,3,8,5,3,Eriadu
+2025-07-09 08:33:17,267,unknown,resistance,8,7,8,10,Iktotch
+2025-07-09 08:33:16,268,resistance_soldier,empire,3,6,9,2,Vulpter
+2025-07-09 08:33:15,269,tie_fighter,resistance,3,3,7,4,Glee Anselm
+2025-07-09 08:33:14,270,at-st,resistance,8,6,7,10,Chandrila
+2025-07-09 08:33:13,271,tie_silencer,resistance,9,2,7,7,Umbara
+2025-07-09 08:33:12,272,tie_silencer,empire,4,2,6,2,Tund
+2025-07-09 08:33:11,273,at-at,empire,5,7,8,10,Dathomir
+2025-07-09 08:33:10,274,tie_fighter,resistance,6,5,8,9,Glee Anselm
+2025-07-09 08:33:09,275,resistance_soldier,empire,7,2,4,4,Trandosha
+2025-07-09 08:33:08,276,tie_fighter,empire,4,9,5,10,Tund
+2025-07-09 08:33:07,277,at-at,empire,4,1,9,4,Chandrila
+2025-07-09 08:33:06,278,resistance_soldier,resistance,4,7,9,7,Mon Cala
+2025-07-09 08:33:05,279,stormtrooper,resistance,10,10,5,9,Quermia
+2025-07-09 08:33:04,280,at-st,empire,6,1,5,1,Malastare
+2025-07-09 08:33:03,281,tie_fighter,empire,3,7,5,3,Bestine IV
+2025-07-09 08:33:02,282,stormtrooper,resistance,7,6,6,4,Bestine IV
+2025-07-09 08:33:01,283,at-at,resistance,7,5,10,1,Ryloth
+2025-07-09 08:33:00,284,at-st,resistance,5,10,4,4,Alderaan
+2025-07-09 08:32:59,285,unknown,resistance,2,4,6,6,Toydaria
+2025-07-09 08:32:58,286,stormtrooper,empire,7,8,1,8,Vulpter
+2025-07-09 08:32:57,287,at-at,empire,2,1,9,2,Corellia
+2025-07-09 08:32:56,288,at-at,empire,7,3,10,4,Mirial
+2025-07-09 08:32:55,289,at-st,resistance,10,10,8,10,Chandrila
+2025-07-09 08:32:54,290,stormtrooper,resistance,2,5,10,9,Dathomir
+2025-07-09 08:32:53,291,tie_fighter,resistance,10,10,1,4,Muunilinst
+2025-07-09 08:32:52,292,resistance_soldier,empire,9,1,1,7,Aleen Minor
+2025-07-09 08:32:51,293,at-st,resistance,8,1,8,7,Haruun Kal
+2025-07-09 08:32:50,294,unknown,resistance,7,2,10,7,Mon Cala
+2025-07-09 08:32:49,295,at-st,resistance,6,10,2,4,Cerea
+2025-07-09 08:32:48,296,stormtrooper,resistance,5,5,5,2,Chandrila
+2025-07-09 08:32:47,297,tie_silencer,resistance,10,2,2,7,Quermia
+2025-07-09 08:32:46,298,resistance_soldier,resistance,8,4,10,10,Haruun Kal
+2025-07-09 08:32:45,299,unknown,empire,6,3,1,4,Serenno
+2025-07-09 08:32:44,300,x-wing,resistance,3,2,3,8,Alderaan
+2025-07-09 08:32:43,301,tie_fighter,resistance,1,1,6,10,Eriadu
+2025-07-09 08:32:42,302,at-st,resistance,4,8,10,2,Vulpter
+2025-07-09 08:32:41,303,stormtrooper,empire,10,8,2,7,Trandosha
+2025-07-09 08:32:40,304,resistance_soldier,resistance,1,7,9,5,Dathomir
+2025-07-09 08:32:39,305,tie_silencer,empire,5,4,1,10,Haruun Kal
+2025-07-09 08:32:38,306,at-st,empire,3,9,7,9,Kalee
+2025-07-09 08:32:37,307,stormtrooper,empire,6,9,10,1,Muunilinst
+2025-07-09 08:32:36,308,resistance_soldier,empire,10,10,6,1,Muunilinst
+2025-07-09 08:32:35,309,tie_fighter,resistance,2,6,3,5,Iridonia
+2025-07-09 08:32:34,310,at-at,resistance,7,1,8,2,Dorin
+2025-07-09 08:32:33,311,resistance_soldier,empire,6,5,8,7,Serenno
+2025-07-09 08:32:32,312,x-wing,resistance,6,4,4,4,Ojom
+2025-07-09 08:32:31,313,tie_fighter,empire,7,3,6,6,Dorin
+2025-07-09 08:32:30,314,unknown,empire,2,3,2,6,Serenno
+2025-07-09 08:32:29,315,unknown,empire,9,5,3,3,Champala
+2025-07-09 08:32:28,316,resistance_soldier,resistance,3,10,5,3,Mon Cala
+2025-07-09 08:32:27,317,at-st,empire,1,9,9,1,Zolan
+2025-07-09 08:32:26,318,resistance_soldier,resistance,3,7,6,10,Rodia
+2025-07-09 08:32:25,319,stormtrooper,empire,1,2,8,8,Eriadu
+2025-07-09 08:32:24,320,stormtrooper,empire,8,2,1,8,Stewjon
+2025-07-09 08:32:23,321,stormtrooper,empire,5,5,9,10,Tund
+2025-07-09 08:32:22,322,stormtrooper,resistance,8,5,9,4,Shili
+2025-07-09 08:32:21,323,unknown,empire,9,2,1,10,Tund
+2025-07-09 08:32:20,324,at-at,empire,6,4,8,4,Tund
+2025-07-09 08:32:19,325,at-st,resistance,9,1,4,2,Zolan
+2025-07-09 08:32:18,326,at-st,resistance,6,8,6,10,Toydaria
+2025-07-09 08:32:17,327,tie_silencer,resistance,10,2,8,3,Shili
+2025-07-09 08:32:16,328,tie_silencer,empire,5,6,1,6,Trandosha
+2025-07-09 08:32:15,329,resistance_soldier,resistance,7,8,9,8,Naboo
+2025-07-09 08:32:14,330,tie_fighter,empire,8,5,1,9,Socorro
+2025-07-09 08:32:13,331,stormtrooper,empire,7,7,5,1,Stewjon
+2025-07-09 08:32:12,332,tie_silencer,resistance,2,3,10,3,Glee Anselm
+2025-07-09 08:32:11,333,at-at,resistance,9,6,10,9,Umbara
+2025-07-09 08:32:10,334,at-at,resistance,7,2,3,2,Malastare
+2025-07-09 08:32:09,335,unknown,resistance,3,5,2,5,Trandosha
+2025-07-09 08:32:08,336,resistance_soldier,empire,8,7,4,6,Stewjon
+2025-07-09 08:32:07,337,resistance_soldier,empire,9,6,9,3,Kalee
+2025-07-09 08:32:06,338,at-at,empire,3,10,4,8,Skako
+2025-07-09 08:32:05,339,at-at,resistance,1,10,5,6,Rodia
+2025-07-09 08:32:04,340,unknown,empire,9,8,8,7,Stewjon
+2025-07-09 08:32:03,341,resistance_soldier,empire,7,7,6,2,Umbara
+2025-07-09 08:32:02,342,tie_silencer,empire,6,5,8,10,Muunilinst
+2025-07-09 08:32:01,343,resistance_soldier,resistance,1,3,9,4,Kashyyyk
+2025-07-09 08:32:00,344,at-at,empire,7,3,10,6,Bestine IV
+2025-07-09 08:31:59,345,at-st,empire,10,5,6,3,Muunilinst
+2025-07-09 08:31:58,346,tie_silencer,resistance,7,4,4,1,Naboo
+2025-07-09 08:31:57,347,stormtrooper,empire,2,4,6,10,Vulpter
+2025-07-09 08:31:56,348,tie_fighter,empire,10,3,6,6,Corellia
+2025-07-09 08:31:55,349,resistance_soldier,resistance,3,1,6,2,Malastare
+2025-07-09 08:31:54,350,resistance_soldier,empire,1,7,5,4,Mirial
+2025-07-09 08:31:53,351,resistance_soldier,empire,4,4,9,7,Quermia
+2025-07-09 08:31:52,352,unknown,empire,3,2,1,1,Dorin
+2025-07-09 08:31:51,353,tie_silencer,empire,1,2,6,5,Kalee
+2025-07-09 08:31:50,354,x-wing,resistance,9,8,8,5,Glee Anselm
+2025-07-09 08:31:49,355,resistance_soldier,resistance,1,10,4,3,Muunilinst
+2025-07-09 08:31:48,356,at-at,empire,1,1,3,1,Troiken
+2025-07-09 08:31:47,357,resistance_soldier,resistance,2,4,1,9,Bestine IV
+2025-07-09 08:31:46,358,tie_silencer,resistance,6,9,1,9,Mon Cala
+2025-07-09 08:31:45,359,x-wing,empire,1,2,7,1,Kalee
+2025-07-09 08:31:44,360,tie_fighter,resistance,8,9,2,4,Aleen Minor
+2025-07-09 08:31:43,361,at-at,empire,3,1,3,5,Tholoth
+2025-07-09 08:31:42,362,at-st,empire,9,1,9,5,Glee Anselm
+2025-07-09 08:31:41,363,tie_silencer,resistance,2,8,6,3,Ryloth
+2025-07-09 08:31:40,364,stormtrooper,empire,6,10,10,9,Cerea
+2025-07-09 08:31:39,365,at-at,resistance,8,6,1,1,Aleen Minor
+2025-07-09 08:31:38,366,at-at,resistance,1,10,7,8,Eriadu
+2025-07-09 08:31:37,367,x-wing,resistance,9,10,9,5,Kashyyyk
+2025-07-09 08:31:36,368,unknown,resistance,6,6,4,10,Umbara
+2025-07-09 08:31:35,369,tie_silencer,empire,2,4,1,2,Chandrila
+2025-07-09 08:31:34,370,resistance_soldier,resistance,8,2,10,8,Serenno
+2025-07-09 08:31:33,371,tie_silencer,empire,10,10,4,4,Serenno
+2025-07-09 08:31:32,372,tie_silencer,resistance,10,6,6,3,Socorro
+2025-07-09 08:31:31,373,tie_silencer,empire,2,4,6,7,Tund
+2025-07-09 08:31:30,374,tie_fighter,empire,6,8,4,8,Bestine IV
+2025-07-09 08:31:29,375,at-at,resistance,10,3,1,5,Mon Cala
+2025-07-09 08:31:28,376,tie_fighter,resistance,4,9,4,4,Tholoth
+2025-07-09 08:31:27,377,at-st,resistance,1,1,4,7,Naboo
+2025-07-09 08:31:26,378,stormtrooper,empire,5,9,5,10,Dathomir
+2025-07-09 08:31:25,379,at-st,empire,3,4,7,9,Zolan
+2025-07-09 08:31:24,380,unknown,empire,8,3,7,6,Dorin
+2025-07-09 08:31:23,381,stormtrooper,empire,8,1,5,10,Concord Dawn
+2025-07-09 08:31:22,382,x-wing,empire,9,8,5,2,Skako
+2025-07-09 08:31:21,383,unknown,resistance,3,4,1,1,Tund
+2025-07-09 08:31:20,384,unknown,empire,3,10,3,7,Champala
+2025-07-09 08:31:19,385,at-at,resistance,4,7,2,5,Cerea
+2025-07-09 08:31:18,386,at-st,resistance,3,7,8,4,Quermia
+2025-07-09 08:31:17,387,unknown,resistance,2,6,7,2,Alderaan
+2025-07-09 08:31:16,388,at-at,resistance,7,4,7,5,Bestine IV
+2025-07-09 08:31:15,389,x-wing,resistance,1,5,10,4,Trandosha
+2025-07-09 08:31:14,390,at-at,resistance,2,7,2,2,Chandrila
+2025-07-09 08:31:13,391,at-st,resistance,2,7,3,7,Shili
+2025-07-09 08:31:12,392,at-at,empire,10,5,8,3,Bestine IV
+2025-07-09 08:31:11,393,tie_silencer,empire,2,7,5,4,Troiken
+2025-07-09 08:31:10,394,tie_fighter,empire,8,1,3,8,Tatooine
+2025-07-09 08:31:09,395,x-wing,empire,1,9,6,6,Corellia
+2025-07-09 08:31:08,396,tie_fighter,empire,9,7,8,8,Stewjon
+2025-07-09 08:31:07,397,tie_silencer,resistance,9,3,7,6,Stewjon
+2025-07-09 08:31:06,398,stormtrooper,empire,2,5,2,2,Malastare
+2025-07-09 08:31:05,399,x-wing,empire,1,3,8,4,Vulpter
+2025-07-09 08:31:04,400,unknown,empire,6,9,9,3,Serenno
+2025-07-09 08:31:03,401,unknown,empire,6,3,3,2,Zolan
+2025-07-09 08:31:02,402,tie_fighter,resistance,9,7,4,1,Concord Dawn
+2025-07-09 08:31:01,403,x-wing,resistance,2,10,5,1,Vulpter
+2025-07-09 08:31:00,404,x-wing,empire,5,1,10,3,Trandosha
+2025-07-09 08:30:59,405,resistance_soldier,empire,10,8,9,7,Stewjon
+2025-07-09 08:30:58,406,resistance_soldier,resistance,4,3,7,7,Kashyyyk
+2025-07-09 08:30:57,407,unknown,empire,10,10,10,9,Corellia
+2025-07-09 08:30:56,408,stormtrooper,empire,2,5,6,1,Stewjon
+2025-07-09 08:30:55,409,x-wing,resistance,5,10,10,8,Vulpter
+2025-07-09 08:30:54,410,stormtrooper,resistance,7,1,8,8,Trandosha
+2025-07-09 08:30:53,411,unknown,empire,2,8,3,9,Champala
+2025-07-09 08:30:52,412,unknown,empire,10,2,2,4,Concord Dawn
+2025-07-09 08:30:51,413,tie_silencer,empire,7,10,10,5,Mirial
+2025-07-09 08:30:50,414,resistance_soldier,resistance,9,10,2,10,Toydaria
+2025-07-09 08:30:49,415,unknown,resistance,8,2,10,4,Serenno
+2025-07-09 08:30:48,416,tie_fighter,empire,5,5,4,9,Concord Dawn
+2025-07-09 08:30:47,417,tie_silencer,empire,3,9,1,10,Kalee
+2025-07-09 08:30:46,418,x-wing,empire,5,3,4,3,Zolan
+2025-07-09 08:30:45,419,at-st,resistance,9,5,5,4,Ryloth
+2025-07-09 08:30:44,420,stormtrooper,empire,8,10,8,4,Socorro
+2025-07-09 08:30:43,421,x-wing,empire,4,4,8,4,Kashyyyk
+2025-07-09 08:30:42,422,x-wing,empire,7,10,5,1,Iktotch
+2025-07-09 08:30:41,423,stormtrooper,empire,6,3,4,9,Socorro
+2025-07-09 08:30:40,424,resistance_soldier,resistance,10,1,1,2,Mirial
+2025-07-09 08:30:39,425,at-st,resistance,8,8,7,9,Iridonia
+2025-07-09 08:30:38,426,unknown,resistance,3,5,4,5,Alderaan
+2025-07-09 08:30:37,427,resistance_soldier,empire,10,1,6,1,Ryloth
+2025-07-09 08:30:36,428,tie_fighter,resistance,7,6,1,6,Troiken
+2025-07-09 08:30:35,429,at-st,empire,9,6,1,6,Iktotch
+2025-07-09 08:30:34,430,at-st,resistance,7,3,9,10,Umbara
+2025-07-09 08:30:33,431,tie_fighter,resistance,10,8,5,6,Kashyyyk
+2025-07-09 08:30:32,432,tie_silencer,empire,2,6,7,1,Ojom
+2025-07-09 08:30:31,433,resistance_soldier,resistance,8,6,9,7,Ryloth
+2025-07-09 08:30:30,434,at-at,empire,6,8,2,9,Champala
+2025-07-09 08:30:29,435,stormtrooper,resistance,1,10,7,5,Haruun Kal
+2025-07-09 08:30:28,436,unknown,resistance,2,2,8,3,Socorro
+2025-07-09 08:30:27,437,unknown,empire,4,3,2,1,Malastare
+2025-07-09 08:30:26,438,tie_silencer,resistance,3,8,8,7,Bestine IV
+2025-07-09 08:30:25,439,x-wing,empire,9,6,5,9,Quermia
+2025-07-09 08:30:24,440,at-st,resistance,6,5,8,7,Toydaria
+2025-07-09 08:30:23,441,tie_silencer,empire,7,8,7,8,Muunilinst
+2025-07-09 08:30:22,442,x-wing,resistance,10,10,5,9,Mon Cala
+2025-07-09 08:30:21,443,at-at,resistance,7,1,2,4,Haruun Kal
+2025-07-09 08:30:20,444,resistance_soldier,resistance,7,4,1,7,Cerea
+2025-07-09 08:30:19,445,x-wing,empire,4,9,2,4,Vulpter
+2025-07-09 08:30:18,446,x-wing,empire,6,8,5,8,Haruun Kal
+2025-07-09 08:30:17,447,at-st,empire,10,3,3,4,Glee Anselm
+2025-07-09 08:30:16,448,tie_fighter,empire,4,5,9,10,Concord Dawn
+2025-07-09 08:30:15,449,tie_silencer,resistance,1,5,4,9,Dorin
+2025-07-09 08:30:14,450,resistance_soldier,empire,4,7,4,1,Glee Anselm
+2025-07-09 08:30:13,451,resistance_soldier,empire,5,7,10,2,Dorin
+2025-07-09 08:30:12,452,unknown,empire,2,1,10,3,Aleen Minor
+2025-07-09 08:30:11,453,resistance_soldier,empire,5,2,9,3,Haruun Kal
+2025-07-09 08:30:10,454,at-at,resistance,1,3,3,3,Kalee
+2025-07-09 08:30:09,455,x-wing,empire,9,8,5,7,Chandrila
+2025-07-09 08:30:08,456,resistance_soldier,resistance,4,3,3,5,Kalee
+2025-07-09 08:30:07,457,x-wing,resistance,9,4,5,10,Shili
+2025-07-09 08:30:06,458,stormtrooper,empire,9,9,5,4,Troiken
+2025-07-09 08:30:05,459,stormtrooper,empire,8,10,1,5,Eriadu
+2025-07-09 08:30:04,460,at-st,resistance,5,2,4,2,Zolan
+2025-07-09 08:30:03,461,at-at,empire,8,2,3,3,Glee Anselm
+2025-07-09 08:30:02,462,at-at,resistance,6,3,9,1,Kashyyyk
+2025-07-09 08:30:01,463,unknown,empire,8,5,1,6,Socorro
+2025-07-09 08:30:00,464,stormtrooper,resistance,10,4,4,6,Vulpter
+2025-07-09 08:29:59,465,tie_silencer,resistance,2,5,10,3,Chandrila
+2025-07-09 08:29:58,466,unknown,resistance,6,5,9,8,Aleen Minor
+2025-07-09 08:29:57,467,resistance_soldier,resistance,6,9,2,7,Bestine IV
+2025-07-09 08:29:56,468,resistance_soldier,resistance,3,4,8,7,Umbara
+2025-07-09 08:29:55,469,tie_silencer,resistance,7,7,6,5,Skako
+2025-07-09 08:29:54,470,x-wing,empire,3,8,7,7,Serenno
+2025-07-09 08:29:53,471,tie_silencer,empire,6,5,8,7,Serenno
+2025-07-09 08:29:52,472,resistance_soldier,resistance,3,8,6,2,Socorro
+2025-07-09 08:29:51,473,stormtrooper,resistance,7,8,7,1,Rodia
+2025-07-09 08:29:50,474,tie_silencer,empire,6,2,2,1,Trandosha
+2025-07-09 08:29:49,475,resistance_soldier,resistance,2,3,7,7,Bestine IV
+2025-07-09 08:29:48,476,resistance_soldier,resistance,9,1,5,6,Haruun Kal
+2025-07-09 08:29:47,477,tie_fighter,resistance,8,9,6,3,Shili
+2025-07-09 08:29:46,478,stormtrooper,resistance,5,3,8,1,Quermia
+2025-07-09 08:29:45,479,tie_fighter,resistance,9,10,10,9,Alderaan
+2025-07-09 08:29:44,480,tie_silencer,resistance,1,8,1,3,Glee Anselm
+2025-07-09 08:29:43,481,stormtrooper,empire,2,10,10,3,Concord Dawn
+2025-07-09 08:29:42,482,tie_fighter,empire,4,8,3,10,Tatooine
+2025-07-09 08:29:41,483,unknown,resistance,6,1,4,1,Iktotch
+2025-07-09 08:29:40,484,x-wing,empire,8,5,7,4,Umbara
+2025-07-09 08:29:39,485,resistance_soldier,empire,10,7,10,4,Bestine IV
+2025-07-09 08:29:38,486,at-at,empire,7,9,3,1,Ojom
+2025-07-09 08:29:37,487,x-wing,empire,10,1,6,8,Malastare
+2025-07-09 08:29:36,488,tie_silencer,empire,2,8,8,10,Corellia
+2025-07-09 08:29:35,489,tie_silencer,resistance,1,4,7,8,Troiken
+2025-07-09 08:29:34,490,x-wing,empire,3,10,10,6,Tatooine
+2025-07-09 08:29:33,491,at-st,empire,2,6,6,6,Tatooine
+2025-07-09 08:29:32,492,at-at,resistance,7,2,3,1,Iktotch
+2025-07-09 08:29:31,493,x-wing,resistance,4,8,9,6,Dathomir
+2025-07-09 08:29:30,494,at-st,empire,10,7,2,2,Champala
+2025-07-09 08:29:29,495,x-wing,empire,5,8,5,2,Iktotch
+2025-07-09 08:29:28,496,stormtrooper,empire,6,4,5,5,Tatooine
+2025-07-09 08:29:27,497,tie_fighter,resistance,7,10,7,4,Sullust
+2025-07-09 08:29:26,498,stormtrooper,resistance,4,6,7,3,Umbara
+2025-07-09 08:29:25,499,stormtrooper,empire,1,8,5,1,Ojom
+2025-07-09 08:29:24,500,tie_fighter,resistance,3,4,1,8,Zolan
+2025-07-09 08:29:23,501,stormtrooper,empire,7,1,5,6,Eriadu
+2025-07-09 08:29:22,502,x-wing,empire,9,3,4,10,Tund
+2025-07-09 08:29:21,503,unknown,empire,1,9,5,10,Corellia
+2025-07-09 08:29:20,504,unknown,resistance,4,4,3,10,Glee Anselm
+2025-07-09 08:29:19,505,tie_fighter,resistance,2,5,2,5,Glee Anselm
+2025-07-09 08:29:18,506,stormtrooper,resistance,2,8,7,4,Troiken
+2025-07-09 08:29:17,507,tie_fighter,resistance,10,8,6,5,Chandrila
+2025-07-09 08:29:16,508,tie_fighter,empire,6,4,2,5,Dagobah
+2025-07-09 08:29:15,509,unknown,resistance,10,10,5,1,Naboo
+2025-07-09 08:29:14,510,unknown,resistance,3,4,4,2,Glee Anselm
+2025-07-09 08:29:13,511,x-wing,empire,1,7,5,3,Ojom
+2025-07-09 08:29:12,512,at-at,empire,1,8,10,4,Shili
+2025-07-09 08:29:11,513,resistance_soldier,empire,2,5,8,7,Aleen Minor
+2025-07-09 08:29:10,514,at-st,empire,7,5,5,10,Haruun Kal
+2025-07-09 08:29:09,515,tie_silencer,resistance,1,6,3,8,Mirial
+2025-07-09 08:29:08,516,x-wing,empire,9,5,10,10,Mirial
+2025-07-09 08:29:07,517,at-at,empire,1,2,4,3,Naboo
+2025-07-09 08:29:06,518,tie_fighter,empire,6,1,7,4,Tholoth
+2025-07-09 08:29:05,519,resistance_soldier,empire,3,10,3,9,Kashyyyk
+2025-07-09 08:29:04,520,unknown,resistance,3,2,8,3,Iktotch
+2025-07-09 08:29:03,521,at-at,resistance,4,6,2,2,Champala
+2025-07-09 08:29:02,522,resistance_soldier,empire,6,2,7,7,Trandosha
+2025-07-09 08:29:01,523,at-at,resistance,9,4,10,8,Socorro
+2025-07-09 08:29:00,524,at-at,resistance,6,2,3,5,Ojom
+2025-07-09 08:28:59,525,tie_silencer,empire,4,5,9,10,Troiken
+2025-07-09 08:28:58,526,tie_silencer,empire,8,10,1,8,Serenno
+2025-07-09 08:28:57,527,resistance_soldier,resistance,6,6,6,8,Iridonia
+2025-07-09 08:28:56,528,unknown,empire,4,3,3,1,Trandosha
+2025-07-09 08:28:55,529,tie_fighter,resistance,2,1,7,6,Glee Anselm
+2025-07-09 08:28:54,530,at-at,resistance,5,9,5,5,Mon Cala
+2025-07-09 08:28:53,531,resistance_soldier,resistance,7,2,6,1,Kalee
+2025-07-09 08:28:52,532,tie_fighter,resistance,4,5,3,7,Naboo
+2025-07-09 08:28:51,533,at-st,empire,3,6,1,10,Dathomir
+2025-07-09 08:28:50,534,x-wing,resistance,9,7,5,10,Dathomir
+2025-07-09 08:28:49,535,unknown,empire,9,1,3,1,Dagobah
+2025-07-09 08:28:48,536,tie_silencer,empire,9,9,1,9,Dagobah
+2025-07-09 08:28:47,537,at-at,resistance,4,5,5,8,Sullust
+2025-07-09 08:28:46,538,stormtrooper,resistance,10,2,7,8,Ojom
+2025-07-09 08:28:45,539,at-st,resistance,3,10,3,3,Ryloth
+2025-07-09 08:28:44,540,tie_fighter,empire,6,7,7,1,Rodia
+2025-07-09 08:28:43,541,unknown,resistance,5,6,5,10,Zolan
+2025-07-09 08:28:42,542,x-wing,empire,9,3,5,1,Tholoth
+2025-07-09 08:28:41,543,x-wing,resistance,10,1,3,8,Alderaan
+2025-07-09 08:28:40,544,at-st,empire,7,9,3,9,Muunilinst
+2025-07-09 08:28:39,545,tie_fighter,empire,5,10,2,8,Dathomir
+2025-07-09 08:28:38,546,tie_silencer,empire,7,8,2,6,Dagobah
+2025-07-09 08:28:37,547,x-wing,resistance,4,1,10,3,Haruun Kal
+2025-07-09 08:28:36,548,x-wing,empire,6,10,8,5,Tatooine
+2025-07-09 08:28:35,549,at-st,resistance,9,9,1,9,Iktotch
+2025-07-09 08:28:34,550,stormtrooper,empire,3,7,3,1,Serenno
+2025-07-09 08:28:33,551,tie_fighter,empire,7,5,4,9,Sullust
+2025-07-09 08:28:32,552,tie_silencer,resistance,4,9,1,5,Sullust
+2025-07-09 08:28:31,553,at-at,resistance,8,6,1,6,Dathomir
+2025-07-09 08:28:30,554,unknown,resistance,8,9,10,3,Skako
+2025-07-09 08:28:29,555,unknown,empire,8,6,5,1,Vulpter
+2025-07-09 08:28:28,556,unknown,resistance,10,2,2,3,Dagobah
+2025-07-09 08:28:27,557,x-wing,empire,1,9,10,5,Muunilinst
+2025-07-09 08:28:26,558,at-st,resistance,5,2,5,2,Sullust
+2025-07-09 08:28:25,559,stormtrooper,resistance,6,10,10,3,Socorro
+2025-07-09 08:28:24,560,tie_silencer,resistance,7,9,1,5,Socorro
+2025-07-09 08:28:23,561,at-st,empire,10,2,10,2,Dagobah
+2025-07-09 08:28:22,562,tie_fighter,empire,1,8,7,8,Cerea
+2025-07-09 08:28:21,563,x-wing,resistance,4,9,8,6,Ojom
+2025-07-09 08:28:20,564,tie_fighter,resistance,9,10,1,9,Chandrila
+2025-07-09 08:28:19,565,tie_silencer,empire,2,3,5,1,Muunilinst
+2025-07-09 08:28:18,566,tie_fighter,empire,2,3,9,1,Serenno
+2025-07-09 08:28:17,567,x-wing,empire,3,7,6,1,Ryloth
+2025-07-09 08:28:16,568,x-wing,resistance,10,6,3,6,Mon Cala
+2025-07-09 08:28:15,569,at-at,resistance,2,2,3,7,Socorro
+2025-07-09 08:28:14,570,tie_silencer,empire,10,7,4,3,Dagobah
+2025-07-09 08:28:13,571,tie_silencer,empire,6,1,8,3,Toydaria
+2025-07-09 08:28:12,572,tie_silencer,empire,6,5,9,10,Serenno
+2025-07-09 08:28:11,573,at-st,resistance,9,8,4,10,Socorro
+2025-07-09 08:28:10,574,resistance_soldier,resistance,10,7,2,9,Cerea
+2025-07-09 08:28:09,575,at-at,resistance,10,3,4,4,Champala
+2025-07-09 08:28:08,576,stormtrooper,empire,9,4,10,9,Bestine IV
+2025-07-09 08:28:07,577,stormtrooper,empire,1,9,7,8,Dagobah
+2025-07-09 08:28:06,578,stormtrooper,empire,2,4,2,4,Cerea
+2025-07-09 08:28:05,579,resistance_soldier,resistance,3,10,8,9,Tholoth
+2025-07-09 08:28:04,580,x-wing,resistance,10,6,5,6,Glee Anselm
+2025-07-09 08:28:03,581,x-wing,resistance,8,9,7,1,Naboo
+2025-07-09 08:28:02,582,tie_fighter,resistance,10,5,7,9,Glee Anselm
+2025-07-09 08:28:01,583,tie_silencer,resistance,4,9,2,2,Champala
+2025-07-09 08:28:00,584,at-at,empire,3,1,6,6,Rodia
+2025-07-09 08:27:59,585,stormtrooper,empire,1,8,10,2,Eriadu
+2025-07-09 08:27:58,586,x-wing,empire,4,5,1,5,Tholoth
+2025-07-09 08:27:57,587,at-st,resistance,5,4,2,2,Iktotch
+2025-07-09 08:27:56,588,at-st,resistance,2,4,6,2,Vulpter
+2025-07-09 08:27:55,589,x-wing,empire,6,7,10,10,Concord Dawn
+2025-07-09 08:27:54,590,tie_silencer,resistance,10,2,4,4,Mon Cala
+2025-07-09 08:27:53,591,stormtrooper,empire,3,5,10,6,Dagobah
+2025-07-09 08:27:52,592,at-st,resistance,4,2,9,1,Concord Dawn
+2025-07-09 08:27:51,593,at-st,resistance,6,4,9,8,Dathomir
+2025-07-09 08:27:50,594,resistance_soldier,resistance,6,1,7,7,Tholoth
+2025-07-09 08:27:49,595,unknown,resistance,8,10,5,9,Haruun Kal
+2025-07-09 08:27:48,596,unknown,resistance,9,7,3,4,Haruun Kal
+2025-07-09 08:27:47,597,at-st,empire,1,9,4,4,Skako
+2025-07-09 08:27:46,598,resistance_soldier,resistance,10,4,3,4,Kashyyyk
+2025-07-09 08:27:45,599,x-wing,empire,1,5,10,8,Stewjon
+2025-07-09 08:27:44,600,tie_fighter,resistance,8,3,6,5,Haruun Kal
+2025-07-09 08:27:43,601,resistance_soldier,resistance,6,3,2,9,Dathomir
+2025-07-09 08:27:42,602,resistance_soldier,empire,7,9,8,8,Muunilinst
+2025-07-09 08:27:41,603,x-wing,resistance,10,3,10,5,Sullust
+2025-07-09 08:27:40,604,x-wing,empire,9,7,6,1,Malastare
+2025-07-09 08:27:39,605,at-st,empire,5,4,10,3,Tund
+2025-07-09 08:27:38,606,stormtrooper,resistance,2,10,4,9,Kalee
+2025-07-09 08:27:37,607,tie_fighter,resistance,5,3,1,2,Mon Cala
+2025-07-09 08:27:36,608,tie_fighter,empire,5,8,3,6,Trandosha
+2025-07-09 08:27:35,609,stormtrooper,empire,7,6,7,7,Shili
+2025-07-09 08:27:34,610,resistance_soldier,resistance,2,2,7,8,Zolan
+2025-07-09 08:27:33,611,at-at,empire,4,1,4,7,Dagobah
+2025-07-09 08:27:32,612,stormtrooper,resistance,9,7,2,3,Zolan
+2025-07-09 08:27:31,613,resistance_soldier,empire,3,7,8,3,Aleen Minor
+2025-07-09 08:27:30,614,at-at,resistance,6,6,7,6,Kashyyyk
+2025-07-09 08:27:29,615,x-wing,empire,10,2,8,6,Quermia
+2025-07-09 08:27:28,616,stormtrooper,empire,7,6,2,2,Concord Dawn
+2025-07-09 08:27:27,617,at-st,resistance,10,5,1,3,Iridonia
+2025-07-09 08:27:26,618,at-at,resistance,9,2,5,7,Zolan
+2025-07-09 08:27:25,619,x-wing,empire,5,3,3,3,Zolan
+2025-07-09 08:27:24,620,x-wing,empire,3,2,2,7,Malastare
+2025-07-09 08:27:23,621,tie_silencer,resistance,10,7,7,5,Ryloth
+2025-07-09 08:27:22,622,at-st,empire,9,10,4,9,Trandosha
+2025-07-09 08:27:21,623,stormtrooper,resistance,10,9,6,9,Bestine IV
+2025-07-09 08:27:20,624,x-wing,resistance,10,8,10,2,Concord Dawn
+2025-07-09 08:27:19,625,resistance_soldier,empire,1,9,3,8,Serenno
+2025-07-09 08:27:18,626,tie_fighter,resistance,10,1,10,9,Mirial
+2025-07-09 08:27:17,627,unknown,resistance,2,10,9,5,Concord Dawn
+2025-07-09 08:27:16,628,stormtrooper,empire,4,1,3,10,Shili
+2025-07-09 08:27:15,629,at-at,resistance,3,2,2,1,Kashyyyk
+2025-07-09 08:27:14,630,x-wing,resistance,9,10,5,10,Iridonia
+2025-07-09 08:27:13,631,tie_silencer,empire,2,5,8,4,Chandrila
+2025-07-09 08:27:12,632,at-at,empire,3,2,10,10,Dorin
+2025-07-09 08:27:11,633,at-st,empire,1,6,6,7,Bestine IV
+2025-07-09 08:27:10,634,stormtrooper,empire,7,10,10,7,Bestine IV
+2025-07-09 08:27:09,635,x-wing,resistance,4,2,9,10,Trandosha
+2025-07-09 08:27:08,636,resistance_soldier,empire,5,6,2,2,Dorin
+2025-07-09 08:27:07,637,at-at,empire,6,1,10,9,Zolan
+2025-07-09 08:27:06,638,stormtrooper,empire,9,5,7,2,Serenno
+2025-07-09 08:27:05,639,stormtrooper,resistance,8,6,4,7,Aleen Minor
+2025-07-09 08:27:04,640,tie_silencer,resistance,10,5,4,2,Chandrila
+2025-07-09 08:27:03,641,resistance_soldier,resistance,7,9,8,2,Umbara
+2025-07-09 08:27:02,642,unknown,empire,10,2,8,6,Serenno
+2025-07-09 08:27:01,643,x-wing,resistance,8,4,5,8,Dorin
+2025-07-09 08:27:00,644,unknown,empire,7,10,5,2,Tholoth
+2025-07-09 08:26:59,645,at-st,empire,2,9,10,7,Ojom
+2025-07-09 08:26:58,646,tie_silencer,empire,4,5,6,7,Shili
+2025-07-09 08:26:57,647,at-at,resistance,4,5,2,9,Iridonia
+2025-07-09 08:26:56,648,x-wing,resistance,7,1,5,10,Ryloth
+2025-07-09 08:26:55,649,resistance_soldier,empire,9,8,3,4,Dorin
+2025-07-09 08:26:54,650,tie_fighter,resistance,7,10,10,9,Ryloth
+2025-07-09 08:26:53,651,x-wing,resistance,5,6,6,7,Mon Cala
+2025-07-09 08:26:52,652,resistance_soldier,empire,5,6,10,2,Trandosha
+2025-07-09 08:26:51,653,unknown,empire,8,8,10,3,Concord Dawn
+2025-07-09 08:26:50,654,unknown,empire,9,7,8,1,Tatooine
+2025-07-09 08:26:49,655,x-wing,resistance,10,10,5,10,Toydaria
+2025-07-09 08:26:48,656,tie_fighter,resistance,5,1,6,4,Iktotch
+2025-07-09 08:26:47,657,tie_silencer,resistance,5,8,2,4,Kashyyyk
+2025-07-09 08:26:46,658,x-wing,empire,6,1,1,1,Naboo
+2025-07-09 08:26:45,659,stormtrooper,empire,6,6,4,1,Corellia
+2025-07-09 08:26:44,660,at-at,resistance,6,10,4,6,Concord Dawn
+2025-07-09 08:26:43,661,unknown,resistance,6,3,9,1,Mirial
+2025-07-09 08:26:42,662,tie_silencer,empire,7,5,4,3,Concord Dawn
+2025-07-09 08:26:41,663,at-at,resistance,1,10,1,7,Mon Cala
+2025-07-09 08:26:40,664,resistance_soldier,resistance,4,8,8,10,Skako
+2025-07-09 08:26:39,665,stormtrooper,empire,1,2,5,6,Concord Dawn
+2025-07-09 08:26:38,666,resistance_soldier,resistance,6,2,10,9,Naboo
+2025-07-09 08:26:37,667,at-st,empire,8,5,6,3,Tatooine
+2025-07-09 08:26:36,668,tie_silencer,resistance,3,8,9,9,Shili
+2025-07-09 08:26:35,669,at-st,resistance,1,9,5,7,Eriadu
+2025-07-09 08:26:34,670,x-wing,resistance,4,5,3,2,Skako
+2025-07-09 08:26:33,671,x-wing,empire,1,9,10,5,Eriadu
+2025-07-09 08:26:32,672,at-st,resistance,1,5,2,6,Socorro
+2025-07-09 08:26:31,673,at-at,resistance,1,3,5,7,Shili
+2025-07-09 08:26:30,674,stormtrooper,empire,7,2,10,10,Dorin
+2025-07-09 08:26:29,675,x-wing,resistance,1,7,9,1,Kalee
+2025-07-09 08:26:28,676,tie_fighter,empire,3,5,4,7,Eriadu
+2025-07-09 08:26:27,677,stormtrooper,empire,1,9,6,8,Corellia
+2025-07-09 08:26:26,678,resistance_soldier,resistance,7,2,6,7,Troiken
+2025-07-09 08:26:25,679,tie_silencer,empire,3,6,1,6,Naboo
+2025-07-09 08:26:24,680,resistance_soldier,empire,10,10,5,5,Tund
+2025-07-09 08:26:23,681,unknown,empire,8,1,5,1,Kalee
+2025-07-09 08:26:22,682,stormtrooper,empire,1,3,7,8,Aleen Minor
+2025-07-09 08:26:21,683,stormtrooper,empire,6,9,10,5,Corellia
+2025-07-09 08:26:20,684,tie_silencer,resistance,5,9,8,10,Dathomir
+2025-07-09 08:26:19,685,stormtrooper,resistance,5,2,7,9,Haruun Kal
+2025-07-09 08:26:18,686,tie_silencer,empire,10,7,4,9,Kalee
+2025-07-09 08:26:17,687,tie_fighter,resistance,7,1,5,10,Kalee
+2025-07-09 08:26:16,688,x-wing,resistance,5,1,2,9,Cerea
+2025-07-09 08:26:15,689,x-wing,empire,6,5,3,8,Zolan
+2025-07-09 08:26:14,690,tie_fighter,empire,4,1,6,7,Toydaria
+2025-07-09 08:26:13,691,stormtrooper,empire,7,7,3,7,Concord Dawn
+2025-07-09 08:26:12,692,at-at,empire,2,2,8,5,Shili
+2025-07-09 08:26:11,693,x-wing,resistance,7,5,3,7,Naboo
+2025-07-09 08:26:10,694,unknown,empire,4,1,5,1,Tholoth
+2025-07-09 08:26:09,695,tie_fighter,empire,3,9,6,3,Corellia
+2025-07-09 08:26:08,696,tie_silencer,empire,7,4,8,10,Corellia
+2025-07-09 08:26:07,697,at-at,resistance,5,4,5,6,Mon Cala
+2025-07-09 08:26:06,698,x-wing,empire,8,10,8,1,Vulpter
+2025-07-09 08:26:05,699,unknown,resistance,5,5,9,8,Glee Anselm
+2025-07-09 08:26:04,700,at-at,empire,9,9,3,3,Ojom
+2025-07-09 08:26:03,701,at-st,empire,9,2,2,3,Stewjon
+2025-07-09 08:26:02,702,stormtrooper,empire,10,3,6,6,Tholoth
+2025-07-09 08:26:01,703,tie_fighter,resistance,9,4,10,6,Shili
+2025-07-09 08:26:00,704,at-st,empire,7,7,6,8,Corellia
+2025-07-09 08:25:59,705,at-st,empire,10,2,1,4,Tatooine
+2025-07-09 08:25:58,706,at-at,empire,5,2,10,7,Rodia
+2025-07-09 08:25:57,707,x-wing,empire,6,9,9,5,Rodia
+2025-07-09 08:25:56,708,tie_silencer,resistance,5,5,5,4,Muunilinst
+2025-07-09 08:25:55,709,tie_silencer,empire,10,7,5,1,Troiken
+2025-07-09 08:25:54,710,x-wing,empire,6,1,6,1,Mirial
+2025-07-09 08:25:53,711,resistance_soldier,resistance,8,5,1,8,Quermia
+2025-07-09 08:25:52,712,unknown,empire,6,8,9,4,Dorin
+2025-07-09 08:25:51,713,tie_silencer,resistance,1,1,8,8,Chandrila
+2025-07-09 08:25:50,714,tie_fighter,resistance,2,6,5,10,Bestine IV
+2025-07-09 08:25:49,715,at-at,resistance,8,1,4,10,Concord Dawn
+2025-07-09 08:25:48,716,at-at,resistance,2,10,7,9,Mon Cala
+2025-07-09 08:25:47,717,unknown,resistance,3,9,3,8,Kashyyyk
+2025-07-09 08:25:46,718,tie_silencer,empire,1,4,7,2,Troiken
+2025-07-09 08:25:45,719,resistance_soldier,empire,2,9,8,4,Dagobah
+2025-07-09 08:25:44,720,at-st,empire,3,1,8,3,Cerea
+2025-07-09 08:25:43,721,unknown,resistance,8,3,3,2,Glee Anselm
+2025-07-09 08:25:42,722,unknown,empire,7,5,2,4,Muunilinst
+2025-07-09 08:25:41,723,at-st,resistance,10,7,1,10,Ryloth
+2025-07-09 08:25:40,724,at-at,resistance,2,3,1,8,Rodia
+2025-07-09 08:25:39,725,stormtrooper,resistance,7,5,10,8,Rodia
+2025-07-09 08:25:38,726,at-at,empire,10,10,6,8,Skako
+2025-07-09 08:25:37,727,tie_fighter,resistance,1,1,7,8,Ryloth
+2025-07-09 08:25:36,728,at-at,empire,8,7,3,2,Champala
+2025-07-09 08:25:35,729,at-st,empire,9,5,6,6,Tholoth
+2025-07-09 08:25:34,730,tie_silencer,empire,3,4,6,7,Socorro
+2025-07-09 08:25:33,731,tie_silencer,empire,10,2,4,8,Mirial
+2025-07-09 08:25:32,732,tie_fighter,empire,5,7,9,2,Serenno
+2025-07-09 08:25:31,733,unknown,resistance,1,10,8,3,Sullust
+2025-07-09 08:25:30,734,stormtrooper,resistance,2,6,3,2,Sullust
+2025-07-09 08:25:29,735,tie_fighter,empire,4,3,5,8,Quermia
+2025-07-09 08:25:28,736,at-st,empire,8,10,7,5,Tatooine
+2025-07-09 08:25:27,737,tie_fighter,empire,2,9,9,10,Serenno
+2025-07-09 08:25:26,738,at-st,empire,9,6,6,4,Champala
+2025-07-09 08:25:25,739,tie_silencer,empire,10,7,8,5,Champala
+2025-07-09 08:25:24,740,unknown,empire,1,10,9,2,Skako
+2025-07-09 08:25:23,741,at-at,resistance,3,3,8,3,Mon Cala
+2025-07-09 08:25:22,742,tie_silencer,empire,7,9,10,10,Kalee
+2025-07-09 08:25:21,743,tie_fighter,empire,5,9,10,5,Toydaria
+2025-07-09 08:25:20,744,at-st,empire,8,6,6,5,Concord Dawn
+2025-07-09 08:25:19,745,stormtrooper,empire,3,5,4,3,Toydaria
+2025-07-09 08:25:18,746,resistance_soldier,resistance,1,6,9,8,Iktotch
+2025-07-09 08:25:17,747,x-wing,empire,1,2,6,6,Trandosha
+2025-07-09 08:25:16,748,at-at,resistance,8,9,4,10,Champala
+2025-07-09 08:25:15,749,at-st,resistance,10,7,4,9,Troiken
+2025-07-09 08:25:14,750,stormtrooper,resistance,5,9,4,4,Eriadu
+2025-07-09 08:25:13,751,tie_fighter,resistance,10,1,9,8,Ryloth
+2025-07-09 08:25:12,752,unknown,empire,7,10,6,3,Skako
+2025-07-09 08:25:11,753,tie_silencer,resistance,7,8,3,7,Dathomir
+2025-07-09 08:25:10,754,at-at,empire,4,2,1,5,Ojom
+2025-07-09 08:25:09,755,resistance_soldier,resistance,4,2,2,2,Kalee
+2025-07-09 08:25:08,756,at-st,resistance,6,8,5,6,Rodia
+2025-07-09 08:25:07,757,tie_silencer,resistance,1,9,2,9,Iridonia
+2025-07-09 08:25:06,758,stormtrooper,empire,8,7,5,1,Socorro
+2025-07-09 08:25:05,759,tie_silencer,resistance,5,3,5,3,Serenno
+2025-07-09 08:25:04,760,unknown,empire,7,10,7,6,Eriadu
+2025-07-09 08:25:03,761,stormtrooper,empire,10,4,1,2,Haruun Kal
+2025-07-09 08:25:02,762,at-at,empire,2,2,1,5,Toydaria
+2025-07-09 08:25:01,763,unknown,empire,7,10,8,1,Kalee
+2025-07-09 08:25:00,764,tie_fighter,resistance,5,3,5,2,Umbara
+2025-07-09 08:24:59,765,stormtrooper,resistance,1,2,10,7,Socorro
+2025-07-09 08:24:58,766,at-st,empire,9,8,3,3,Aleen Minor
+2025-07-09 08:24:57,767,x-wing,resistance,6,7,4,5,Dorin
+2025-07-09 08:24:56,768,stormtrooper,empire,9,8,9,7,Dorin
+2025-07-09 08:24:55,769,tie_silencer,empire,9,1,10,10,Aleen Minor
+2025-07-09 08:24:54,770,resistance_soldier,empire,10,9,10,6,Toydaria
+2025-07-09 08:24:53,771,unknown,resistance,8,8,9,10,Mirial
+2025-07-09 08:24:52,772,tie_silencer,resistance,10,9,1,5,Umbara
+2025-07-09 08:24:51,773,unknown,resistance,3,9,9,9,Kalee
+2025-07-09 08:24:50,774,tie_fighter,resistance,8,6,10,6,Dagobah
+2025-07-09 08:24:49,775,at-st,resistance,10,2,4,6,Sullust
+2025-07-09 08:24:48,776,tie_silencer,resistance,2,1,8,8,Champala
+2025-07-09 08:24:47,777,resistance_soldier,resistance,7,6,1,4,Bestine IV
+2025-07-09 08:24:46,778,at-at,empire,4,5,10,7,Kalee
+2025-07-09 08:24:45,779,x-wing,resistance,8,4,8,8,Ojom
+2025-07-09 08:24:44,780,unknown,resistance,9,9,8,3,Tatooine
+2025-07-09 08:24:43,781,at-st,empire,7,10,3,3,Iridonia
+2025-07-09 08:24:42,782,unknown,empire,7,2,8,9,Eriadu
+2025-07-09 08:24:41,783,unknown,empire,2,5,10,6,Zolan
+2025-07-09 08:24:40,784,at-at,empire,2,8,6,1,Mirial
+2025-07-09 08:24:39,785,x-wing,resistance,4,5,10,1,Zolan
+2025-07-09 08:24:38,786,at-st,empire,4,5,6,3,Tatooine
+2025-07-09 08:24:37,787,x-wing,empire,2,4,10,3,Bestine IV
+2025-07-09 08:24:36,788,at-st,resistance,8,8,5,5,Zolan
+2025-07-09 08:24:35,789,stormtrooper,empire,4,10,1,9,Cerea
+2025-07-09 08:24:34,790,at-st,empire,8,2,5,3,Dorin
+2025-07-09 08:24:33,791,tie_silencer,empire,9,5,3,3,Corellia
+2025-07-09 08:24:32,792,resistance_soldier,resistance,3,8,5,9,Skako
+2025-07-09 08:24:31,793,resistance_soldier,resistance,9,2,5,4,Haruun Kal
+2025-07-09 08:24:30,794,x-wing,empire,8,4,3,1,Vulpter
+2025-07-09 08:24:29,795,tie_silencer,empire,5,4,4,8,Toydaria
+2025-07-09 08:24:28,796,resistance_soldier,resistance,2,5,10,10,Shili
+2025-07-09 08:24:27,797,at-at,empire,4,4,5,3,Vulpter
+2025-07-09 08:24:26,798,at-st,resistance,3,3,2,2,Skako
+2025-07-09 08:24:25,799,at-st,resistance,1,1,8,8,Glee Anselm
+2025-07-09 08:24:24,800,x-wing,resistance,5,4,10,4,Aleen Minor
+2025-07-09 08:24:23,801,unknown,resistance,3,2,4,4,Umbara
+2025-07-09 08:24:22,802,resistance_soldier,empire,5,9,10,6,Cerea
+2025-07-09 08:24:21,803,unknown,resistance,3,9,2,4,Trandosha
+2025-07-09 08:24:20,804,resistance_soldier,resistance,2,10,1,8,Iridonia
+2025-07-09 08:24:19,805,tie_silencer,resistance,1,1,5,7,Vulpter
+2025-07-09 08:24:18,806,stormtrooper,resistance,8,1,5,5,Ryloth
+2025-07-09 08:24:17,807,at-at,empire,1,2,4,4,Serenno
+2025-07-09 08:24:16,808,resistance_soldier,resistance,2,3,2,6,Alderaan
+2025-07-09 08:24:15,809,unknown,resistance,4,8,8,2,Sullust
+2025-07-09 08:24:14,810,tie_silencer,resistance,7,7,3,9,Malastare
+2025-07-09 08:24:13,811,unknown,empire,2,1,6,7,Champala
+2025-07-09 08:24:12,812,at-st,empire,5,4,4,9,Stewjon
+2025-07-09 08:24:11,813,at-at,empire,8,4,5,7,Champala
+2025-07-09 08:24:10,814,stormtrooper,resistance,7,6,3,5,Shili
+2025-07-09 08:24:09,815,resistance_soldier,empire,2,8,6,3,Trandosha
+2025-07-09 08:24:08,816,tie_fighter,empire,8,4,5,4,Ojom
+2025-07-09 08:24:07,817,tie_silencer,resistance,8,5,1,1,Serenno
+2025-07-09 08:24:06,818,tie_silencer,resistance,3,1,3,1,Chandrila
+2025-07-09 08:24:05,819,stormtrooper,empire,10,4,10,6,Tund
+2025-07-09 08:24:04,820,x-wing,resistance,4,4,6,10,Shili
+2025-07-09 08:24:03,821,tie_fighter,resistance,2,2,4,3,Mon Cala
+2025-07-09 08:24:02,822,x-wing,empire,6,8,8,6,Sullust
+2025-07-09 08:24:01,823,resistance_soldier,empire,7,10,6,6,Corellia
+2025-07-09 08:24:00,824,resistance_soldier,resistance,5,9,9,4,Dorin
+2025-07-09 08:23:59,825,resistance_soldier,empire,7,7,9,5,Quermia
+2025-07-09 08:23:58,826,resistance_soldier,resistance,2,8,3,1,Naboo
+2025-07-09 08:23:57,827,at-at,resistance,10,6,3,9,Alderaan
+2025-07-09 08:23:56,828,at-at,empire,9,1,3,7,Ojom
+2025-07-09 08:23:55,829,resistance_soldier,resistance,1,8,4,10,Champala
+2025-07-09 08:23:54,830,x-wing,empire,5,5,5,6,Dagobah
+2025-07-09 08:23:53,831,unknown,empire,2,10,3,10,Umbara
+2025-07-09 08:23:52,832,unknown,resistance,2,6,1,2,Ojom
+2025-07-09 08:23:51,833,at-at,resistance,8,9,6,2,Mon Cala
+2025-07-09 08:23:50,834,resistance_soldier,resistance,3,3,4,1,Socorro
+2025-07-09 08:23:49,835,stormtrooper,resistance,6,3,3,3,Sullust
+2025-07-09 08:23:48,836,tie_silencer,resistance,3,5,5,4,Vulpter
+2025-07-09 08:23:47,837,resistance_soldier,empire,2,7,1,2,Tatooine
+2025-07-09 08:23:46,838,stormtrooper,empire,1,10,8,7,Ojom
+2025-07-09 08:23:45,839,tie_fighter,resistance,8,2,8,4,Iktotch
+2025-07-09 08:23:44,840,tie_fighter,empire,1,8,3,9,Glee Anselm
+2025-07-09 08:23:43,841,unknown,empire,6,4,8,5,Cerea
+2025-07-09 08:23:42,842,tie_silencer,empire,9,9,3,5,Rodia
+2025-07-09 08:23:41,843,x-wing,empire,8,9,8,5,Corellia
+2025-07-09 08:23:40,844,tie_silencer,resistance,8,1,2,1,Shili
+2025-07-09 08:23:39,845,unknown,empire,1,9,5,1,Corellia
+2025-07-09 08:23:38,846,at-at,resistance,5,2,10,1,Malastare
+2025-07-09 08:23:37,847,unknown,resistance,9,6,9,8,Socorro
+2025-07-09 08:23:36,848,stormtrooper,empire,4,8,9,4,Bestine IV
+2025-07-09 08:23:35,849,unknown,resistance,5,2,2,4,Quermia
+2025-07-09 08:23:34,850,unknown,resistance,7,6,7,10,Mon Cala
+2025-07-09 08:23:33,851,at-at,empire,5,8,4,10,Tatooine
+2025-07-09 08:23:32,852,stormtrooper,resistance,9,1,1,3,Haruun Kal
+2025-07-09 08:23:31,853,stormtrooper,resistance,8,5,6,5,Dathomir
+2025-07-09 08:23:30,854,x-wing,resistance,4,3,3,5,Trandosha
+2025-07-09 08:23:29,855,unknown,empire,5,3,7,10,Dagobah
+2025-07-09 08:23:28,856,tie_fighter,resistance,3,10,5,2,Tatooine
+2025-07-09 08:23:27,857,tie_fighter,empire,2,9,7,7,Dagobah
+2025-07-09 08:23:26,858,at-at,empire,2,8,6,5,Eriadu
+2025-07-09 08:23:25,859,at-st,resistance,9,9,5,4,Trandosha
+2025-07-09 08:23:24,860,at-at,resistance,1,7,10,4,Alderaan
+2025-07-09 08:23:23,861,stormtrooper,empire,9,2,6,4,Tund
+2025-07-09 08:23:22,862,x-wing,resistance,6,8,1,2,Glee Anselm
+2025-07-09 08:23:21,863,stormtrooper,resistance,7,10,5,6,Malastare
+2025-07-09 08:23:20,864,resistance_soldier,empire,4,4,2,4,Glee Anselm
+2025-07-09 08:23:19,865,at-st,resistance,9,9,8,4,Chandrila
+2025-07-09 08:23:18,866,stormtrooper,resistance,10,6,1,3,Rodia
+2025-07-09 08:23:17,867,stormtrooper,resistance,8,6,6,3,Kashyyyk
+2025-07-09 08:23:16,868,unknown,resistance,1,6,7,3,Tatooine
+2025-07-09 08:23:15,869,resistance_soldier,resistance,5,6,7,8,Ryloth
+2025-07-09 08:23:14,870,tie_silencer,resistance,10,10,3,10,Socorro
+2025-07-09 08:23:13,871,resistance_soldier,resistance,5,2,1,4,Kashyyyk
+2025-07-09 08:23:12,872,at-st,empire,6,2,10,7,Concord Dawn
+2025-07-09 08:23:11,873,at-st,empire,1,8,1,4,Concord Dawn
+2025-07-09 08:23:10,874,stormtrooper,resistance,8,8,5,4,Champala
+2025-07-09 08:23:09,875,at-st,empire,4,9,7,6,Corellia
+2025-07-09 08:23:08,876,x-wing,resistance,8,8,7,8,Kashyyyk
+2025-07-09 08:23:07,877,x-wing,empire,2,6,3,6,Tund
+2025-07-09 08:23:06,878,tie_fighter,empire,6,8,5,2,Corellia
+2025-07-09 08:23:05,879,x-wing,resistance,8,3,8,1,Ojom
+2025-07-09 08:23:04,880,at-st,resistance,5,5,1,1,Naboo
+2025-07-09 08:23:03,881,tie_fighter,empire,4,8,1,7,Dorin
+2025-07-09 08:23:02,882,at-at,resistance,2,1,8,4,Ryloth
+2025-07-09 08:23:01,883,tie_silencer,resistance,8,7,5,9,Eriadu
+2025-07-09 08:23:00,884,tie_fighter,empire,8,3,7,8,Aleen Minor
+2025-07-09 08:22:59,885,at-at,empire,4,6,4,10,Aleen Minor
+2025-07-09 08:22:58,886,x-wing,resistance,7,2,3,5,Iridonia
+2025-07-09 08:22:57,887,unknown,resistance,2,4,2,8,Troiken
+2025-07-09 08:22:56,888,at-st,empire,7,8,2,8,Cerea
+2025-07-09 08:22:55,889,tie_fighter,empire,1,1,10,3,Iktotch
+2025-07-09 08:22:54,890,stormtrooper,empire,10,4,8,5,Zolan
+2025-07-09 08:22:53,891,unknown,empire,10,7,5,10,Cerea
+2025-07-09 08:22:52,892,stormtrooper,empire,3,8,9,3,Glee Anselm
+2025-07-09 08:22:51,893,at-at,resistance,3,4,1,9,Dathomir
+2025-07-09 08:22:50,894,unknown,empire,8,4,5,2,Cerea
+2025-07-09 08:22:49,895,x-wing,resistance,1,9,4,2,Ryloth
+2025-07-09 08:22:48,896,tie_silencer,empire,7,10,6,9,Toydaria
+2025-07-09 08:22:47,897,at-st,empire,3,4,1,1,Ojom
+2025-07-09 08:22:46,898,x-wing,resistance,1,2,2,5,Concord Dawn
+2025-07-09 08:22:45,899,x-wing,resistance,6,4,2,8,Chandrila
+2025-07-09 08:22:44,900,tie_silencer,empire,9,4,9,4,Concord Dawn
+2025-07-09 08:22:43,901,at-st,empire,6,9,4,5,Glee Anselm
+2025-07-09 08:22:42,902,at-at,resistance,9,10,9,1,Bestine IV
+2025-07-09 08:22:41,903,stormtrooper,resistance,5,2,8,9,Chandrila
+2025-07-09 08:22:40,904,x-wing,resistance,10,3,6,5,Ojom
+2025-07-09 08:22:39,905,tie_silencer,resistance,5,8,6,2,Ryloth
+2025-07-09 08:22:38,906,stormtrooper,empire,4,3,10,7,Dorin
+2025-07-09 08:22:37,907,resistance_soldier,empire,2,6,6,5,Serenno
+2025-07-09 08:22:36,908,at-st,resistance,5,5,4,7,Rodia
+2025-07-09 08:22:35,909,stormtrooper,resistance,9,3,8,7,Mirial
+2025-07-09 08:22:34,910,tie_silencer,resistance,4,7,4,7,Haruun Kal
+2025-07-09 08:22:33,911,tie_silencer,resistance,2,6,10,8,Serenno
+2025-07-09 08:22:32,912,at-st,empire,7,7,4,2,Socorro
+2025-07-09 08:22:31,913,at-st,resistance,8,7,8,10,Eriadu
+2025-07-09 08:22:30,914,resistance_soldier,resistance,9,8,7,8,Shili
+2025-07-09 08:22:29,915,tie_fighter,empire,1,10,4,4,Bestine IV
+2025-07-09 08:22:28,916,resistance_soldier,empire,8,1,9,7,Serenno
+2025-07-09 08:22:27,917,at-at,resistance,9,4,7,9,Troiken
+2025-07-09 08:22:26,918,x-wing,resistance,10,3,10,2,Malastare
+2025-07-09 08:22:25,919,resistance_soldier,empire,8,3,3,7,Dorin
+2025-07-09 08:22:24,920,tie_fighter,resistance,2,8,6,2,Shili
+2025-07-09 08:22:23,921,at-at,resistance,7,6,8,8,Socorro
+2025-07-09 08:22:22,922,tie_fighter,resistance,10,4,8,5,Kashyyyk
+2025-07-09 08:22:21,923,resistance_soldier,empire,4,8,10,2,Tund
+2025-07-09 08:22:20,924,tie_fighter,empire,3,3,4,9,Eriadu
+2025-07-09 08:22:19,925,x-wing,empire,8,10,7,9,Vulpter
+2025-07-09 08:22:18,926,unknown,resistance,4,2,4,3,Bestine IV
+2025-07-09 08:22:17,927,stormtrooper,empire,10,3,4,7,Tund
+2025-07-09 08:22:16,928,resistance_soldier,resistance,1,5,6,9,Kalee
+2025-07-09 08:22:15,929,tie_silencer,resistance,5,8,5,5,Shili
+2025-07-09 08:22:14,930,resistance_soldier,resistance,9,9,10,2,Iridonia
+2025-07-09 08:22:13,931,x-wing,empire,2,10,5,7,Tund
+2025-07-09 08:22:12,932,at-at,resistance,7,6,8,9,Cerea
+2025-07-09 08:22:11,933,x-wing,resistance,7,6,5,3,Quermia
+2025-07-09 08:22:10,934,resistance_soldier,resistance,7,10,4,8,Zolan
+2025-07-09 08:22:09,935,tie_silencer,empire,1,4,5,8,Kalee
+2025-07-09 08:22:08,936,unknown,empire,9,8,9,9,Vulpter
+2025-07-09 08:22:07,937,at-at,empire,2,8,4,3,Kalee
+2025-07-09 08:22:06,938,unknown,empire,10,7,4,3,Dathomir
+2025-07-09 08:22:05,939,resistance_soldier,empire,7,5,10,4,Corellia
+2025-07-09 08:22:04,940,resistance_soldier,resistance,3,9,10,1,Naboo
+2025-07-09 08:22:03,941,tie_fighter,resistance,5,5,7,4,Chandrila
+2025-07-09 08:22:02,942,x-wing,resistance,5,5,9,10,Naboo
+2025-07-09 08:22:01,943,resistance_soldier,resistance,2,7,8,3,Bestine IV
+2025-07-09 08:22:00,944,tie_silencer,empire,10,7,10,2,Iridonia
+2025-07-09 08:21:59,945,stormtrooper,resistance,6,6,5,8,Troiken
+2025-07-09 08:21:58,946,tie_fighter,resistance,6,9,10,5,Skako
+2025-07-09 08:21:57,947,tie_fighter,empire,1,7,1,4,Dagobah
+2025-07-09 08:21:56,948,unknown,empire,8,6,5,5,Stewjon
+2025-07-09 08:21:55,949,x-wing,resistance,5,3,4,6,Alderaan
+2025-07-09 08:21:54,950,stormtrooper,resistance,2,7,2,6,Iridonia
+2025-07-09 08:21:53,951,at-st,empire,4,10,5,9,Ojom
+2025-07-09 08:21:52,952,x-wing,empire,10,4,5,2,Concord Dawn
+2025-07-09 08:21:51,953,x-wing,empire,4,1,4,1,Tholoth
+2025-07-09 08:21:50,954,resistance_soldier,resistance,3,2,5,8,Rodia
+2025-07-09 08:21:49,955,unknown,empire,7,6,2,6,Aleen Minor
+2025-07-09 08:21:48,956,unknown,empire,10,9,5,2,Bestine IV
+2025-07-09 08:21:47,957,at-at,resistance,1,10,1,6,Sullust
+2025-07-09 08:21:46,958,stormtrooper,empire,5,4,2,7,Zolan
+2025-07-09 08:21:45,959,tie_silencer,resistance,1,9,5,9,Socorro
+2025-07-09 08:21:44,960,resistance_soldier,empire,4,3,6,3,Rodia
+2025-07-09 08:21:43,961,x-wing,resistance,2,5,5,10,Umbara
+2025-07-09 08:21:42,962,x-wing,resistance,10,3,7,9,Aleen Minor
+2025-07-09 08:21:41,963,unknown,resistance,7,4,4,10,Rodia
+2025-07-09 08:21:40,964,stormtrooper,empire,5,10,1,10,Mirial
+2025-07-09 08:21:39,965,x-wing,resistance,2,2,3,1,Mon Cala
+2025-07-09 08:21:38,966,unknown,resistance,8,4,5,7,Iktotch
+2025-07-09 08:21:37,967,stormtrooper,empire,10,6,1,10,Eriadu
+2025-07-09 08:21:36,968,x-wing,resistance,1,1,2,7,Quermia
+2025-07-09 08:21:35,969,at-st,empire,1,6,8,3,Stewjon
+2025-07-09 08:21:34,970,tie_fighter,resistance,7,10,10,7,Ryloth
+2025-07-09 08:21:33,971,at-st,empire,8,5,1,9,Shili
+2025-07-09 08:21:32,972,unknown,resistance,10,7,8,6,Rodia
+2025-07-09 08:21:31,973,tie_fighter,empire,1,10,2,7,Muunilinst
+2025-07-09 08:21:30,974,tie_fighter,empire,5,5,9,10,Dagobah
+2025-07-09 08:21:29,975,at-st,resistance,1,4,5,5,Champala
+2025-07-09 08:21:28,976,unknown,empire,8,6,4,9,Concord Dawn
+2025-07-09 08:21:27,977,at-at,resistance,2,7,5,10,Trandosha
+2025-07-09 08:21:26,978,x-wing,empire,7,6,6,7,Kalee
+2025-07-09 08:21:25,979,unknown,empire,1,3,8,5,Ojom
+2025-07-09 08:21:24,980,at-st,resistance,1,1,4,6,Shili
+2025-07-09 08:21:23,981,resistance_soldier,empire,4,6,3,1,Serenno
+2025-07-09 08:21:22,982,tie_fighter,empire,10,4,1,4,Serenno
+2025-07-09 08:21:21,983,at-st,empire,5,5,9,10,Serenno
+2025-07-09 08:21:20,984,stormtrooper,resistance,5,1,6,3,Haruun Kal
+2025-07-09 08:21:19,985,resistance_soldier,resistance,9,6,9,3,Shili
+2025-07-09 08:21:18,986,unknown,resistance,8,8,4,8,Sullust
+2025-07-09 08:21:17,987,stormtrooper,empire,1,10,7,2,Mirial
+2025-07-09 08:21:16,988,unknown,resistance,4,10,4,9,Sullust
+2025-07-09 08:21:15,989,at-at,empire,6,7,1,5,Mirial
+2025-07-09 08:21:14,990,at-at,resistance,10,6,7,4,Glee Anselm
+2025-07-09 08:21:13,991,tie_silencer,resistance,1,5,7,7,Haruun Kal
+2025-07-09 08:21:12,992,stormtrooper,resistance,7,9,10,9,Cerea
+2025-07-09 08:21:11,993,x-wing,empire,10,8,4,10,Toydaria
+2025-07-09 08:21:10,994,at-at,empire,1,1,6,9,Tund
+2025-07-09 08:21:09,995,unknown,empire,2,8,2,2,Kalee
+2025-07-09 08:21:08,996,resistance_soldier,empire,5,7,8,8,Stewjon
+2025-07-09 08:21:07,997,unknown,empire,7,9,4,6,Dorin
+2025-07-09 08:21:06,998,resistance_soldier,empire,6,9,4,6,Glee Anselm
+2025-07-09 08:21:05,999,at-at,empire,7,7,9,2,Umbara
+2025-07-09 08:21:04,1000,unknown,resistance,5,3,10,7,Champala
